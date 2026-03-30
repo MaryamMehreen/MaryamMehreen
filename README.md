@@ -1,4 +1,4 @@
-<h1 align="left">Hi I'm Maryam Mehreen</h1>
+<h1 align="left">Hi 👋 I'm Maryam Mehreen</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">. I'm Currenly Learning Mern Stack, AI Automation <br>. All o my projects are avaialble at https://www.linkedin.com/in/maryam-mehreen-6397962a2/<br>. How to reach me maryammehreen988@gmail.com</p>
+<p align="left">. I'm Currenly Learning Mern Stack, AI Automation <br>. All of my projects are avaialble at LinkedIn 🔗:https://www.linkedin.com/in/maryam-mehreen-6397962a2/<br>. How to reach me 📧maryammehreen988@gmail.com</p>
 
 ###
 
